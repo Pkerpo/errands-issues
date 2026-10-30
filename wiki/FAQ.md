@@ -4,7 +4,7 @@
 
 **Does Errands work on Spigot or CraftBukkit?**
 No. Errands is a **Paper-only** plugin (it uses Paper's command and scheduler APIs). Use Paper
-1.21.4–26.2 (tested on 1.21.11 and 26.2). On Spigot it will not load.
+1.21.4–26.3 (tested on 1.21.11, 26.2 and 26.3). On Spigot it will not load.
 
 **Which Java version do I need?**
 Java 21 or newer. Paper 26.1 and later need Java 25; that is Paper's requirement, not ours.

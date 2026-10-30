@@ -4,7 +4,7 @@ Daily and weekly quests for Minecraft Paper servers. Players get random quests f
 configure, see them in a menu (`/quests`), and claim rewards: items, XP, Vault money and console
 commands.
 
-Errands runs on **Paper 1.21.4–26.2** (tested on 1.21.11 and 26.2; Folia supported, tested on Folia 1.21.11) with **Java 21 or newer**. It does **not**
+Errands runs on **Paper 1.21.4–26.3** (tested on 1.21.11, 26.2 and 26.3; Folia supported, tested on Folia 1.21.11) with **Java 21 or newer**. It does **not**
 run on Spigot or CraftBukkit. There is no license key and no DRM.
 
 ## Pages

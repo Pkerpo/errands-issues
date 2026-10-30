@@ -31,7 +31,7 @@ First public release. Two editions are built from the same code: the paid **Erra
 - Developer API: `QuestService` and the events `QuestProgressEvent`, `QuestCompleteEvent`, `QuestClaimEvent`
   and `QuestsResetEvent`.
 - Folia supported (tested on Folia 1.21.11): all tasks run on region, entity or global schedulers.
-- Paper 1.21.4 to 26.2 (tested on 1.21.11 and 26.2) on Java 21 or newer (Paper 26.x needs Java 25 to run).
+- Paper 1.21.4 to 26.3 (tested on 1.21.11, 26.2 and 26.3) on Java 21 or newer (Paper 26.x needs Java 25 to run).
 - **Errands Lite** (free): daily pool only, 3 quest slots, 6 objective types, SQLite storage.
 
 ### Notes

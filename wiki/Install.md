@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| Server software | **Paper** 1.21.4–26.2 (tested on 1.21.11 and 26.2). Folia is supported (tested on Folia 1.21.11). Not Spigot, not CraftBukkit. |
+| Server software | **Paper** 1.21.4–26.3 (tested on 1.21.11, 26.2 and 26.3). Folia is supported (tested on Folia 1.21.11). Not Spigot, not CraftBukkit. |
 | Java | 21 or newer. Paper 26.1 and later need Java 25 at runtime. |
 | Optional | [Vault](https://www.spigotmc.org/resources/vault.34315/) and an economy plugin (for `money:` rewards), PlaceholderAPI (paid edition) |
 
