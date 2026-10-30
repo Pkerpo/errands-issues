@@ -4,7 +4,7 @@ All notable changes to Errands are documented here. The format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and versions follow
 [Semantic Versioning](https://semver.org/).
 
-## [1.0.0] - unreleased (release candidate 1.0.0-rc1)
+## [1.0.0] - 2026-10-30
 
 First public release. Two editions are built from the same code: the paid **Errands** and the free **Errands Lite**.
 
