@@ -1,0 +1,39 @@
+ERRANDS LITE - PROPRIETARY FREEWARE LICENCE
+
+Licensor: Pkerpo (https://github.com/Pkerpo). Applies to the file Errands-Lite-<version>.jar.
+
+1. You may
+   - Use Errands Lite for free, on any number of servers, including servers that earn money
+     (but see section 2 about selling the plugin itself).
+   - Copy and redistribute the UNMODIFIED jar, free of charge, as long as you keep this
+     licence file with it and give credit ("Errands by Pkerpo").
+   - Edit the configuration, language and quest files.
+
+2. You may not
+   - Modify, decompile, disassemble or reverse engineer the plugin in order to create a
+     modified version, copy its code, or redistribute any part of it, except where
+     applicable law expressly permits it. (Looking at how it behaves for your own debugging
+     on your own server is allowed.)
+   - Sell the plugin, or charge for access to it, or include it in a paid bundle.
+   - Remove copyright notices.
+   - Remove or bypass the limits of the Lite edition, or present Lite as the paid edition.
+
+3. Ownership
+   Errands Lite remains the property of Pkerpo. All rights not expressly
+   granted here are reserved. Bundled third-party software (see THIRD-PARTY-NOTICES.txt)
+   keeps its own licence.
+
+4. No warranty
+   The plugin is provided "as is", without warranty of any kind. The author is not liable
+   for damage arising from its use, except where the law does not allow that exclusion
+   (for example for intent or gross negligence), and without limiting rights you have by
+   mandatory law. Always keep backups.
+
+5. Ending the licence
+   If you break section 2 the licence ends and you must delete all copies.
+
+6. Governing law
+   This licence is governed by Dutch law; disputes go to the competent court in the
+   Netherlands, unless mandatory consumer law says otherwise.
+
+Copyright (c) Pkerpo. All rights reserved.
