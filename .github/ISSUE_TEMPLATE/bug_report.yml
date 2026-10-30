@@ -1,0 +1,60 @@
+name: Bug report
+description: Something in Errands does not work as described on the wiki.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting. Please check the [FAQ](https://github.com/pkerpo/errands-issues/blob/main/wiki/FAQ.md) first.
+        Do not post license files, purchase details or passwords here: this repository is public.
+  - type: dropdown
+    id: edition
+    attributes:
+      label: Edition
+      options:
+        - Errands (paid)
+        - Errands Lite (free)
+    validations:
+      required: true
+  - type: input
+    id: errands-version
+    attributes:
+      label: Errands version
+      description: The output of `/errands info`.
+      placeholder: "1.0.0"
+    validations:
+      required: true
+  - type: input
+    id: server-version
+    attributes:
+      label: Server version
+      description: The output of `/version`. Errands runs on Paper and Folia only, not on Spigot.
+      placeholder: "Paper 1.21.11-..."
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened, and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Give a player the quest ...
+        2. Break 10 oak logs
+        3. Progress stays at 0
+  - type: textarea
+    id: log
+    attributes:
+      label: Console log
+      description: The relevant part of `logs/latest.log`, especially any lines with `[Errands]` or a stack trace.
+      render: text
+  - type: textarea
+    id: config
+    attributes:
+      label: Quest or config snippet
+      description: The part of `quests.yml` or `config.yml` involved, if any.
+      render: yaml

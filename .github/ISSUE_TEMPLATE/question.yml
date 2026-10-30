@@ -1,0 +1,29 @@
+name: Question or idea
+description: Ask how to set something up, or suggest a feature.
+labels: [question]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Most setup questions are answered on the [wiki](https://github.com/pkerpo/errands-issues#pages).
+        Do not post license files, purchase details or passwords here: this repository is public.
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Type
+      options:
+        - Question
+        - Feature idea
+    validations:
+      required: true
+  - type: input
+    id: errands-version
+    attributes:
+      label: Errands version
+      description: The output of `/errands info`, if you have it installed.
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+    validations:
+      required: true
